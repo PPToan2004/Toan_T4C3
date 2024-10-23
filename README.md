@@ -35,7 +35,7 @@ Developer Team: 4 thành viên là các lập trình viên tài năng.
 
 - Võ Quốc Đẩu
 - Hồ Trần Anh Quang
-- Phan Phước Toàn
+- Phan Giang Bảo Ngọc
 - Lê Phan Hoàng Long
   
 Nhờ vào sự phối hợp nhịp nhàng giữa các thành viên, chúng tôi đã cùng nhau vượt qua những thử thách ban đầu và đạt được sự tiến bộ đáng kể trong dự án. Chúng tôi luôn đặt tinh thần đội nhóm lên hàng đầu và không ngừng học hỏi từ nhau để phát triển.
